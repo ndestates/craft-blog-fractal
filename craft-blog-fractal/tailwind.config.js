@@ -1,7 +1,5 @@
 module.exports = {
-  theme: {
-    extend: {},
-  },
+  content: ["components/**/*.twig", "layouts/**/*.twig", "docs/**/*.twig"],
   theme: {
     typography: {
       default: {
