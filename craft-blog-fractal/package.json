@@ -1,0 +1,1 @@
+{"name":"craft-blog-fractal","version":"0.1.0","dependencies":{"@frctl/fractal":"^1.5.15","@frctl/twig":"^1.2.13"},"scripts":{"fractal:start":"fractal start --sync","fractal:build":"fractal build"}}
