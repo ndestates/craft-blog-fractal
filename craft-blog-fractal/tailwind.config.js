@@ -29,10 +29,10 @@ module.exports = {
         headbgshort: "150px",
         overlaybg: "200px",
       },
-      backgroundImage: (theme) => ({
+      /* backgroundImage: (theme) => ({
         "coffee-shop-bg": "url('/img/coffee-shop.jpg')",
         "image-with-overlay": "url('/img/espresso-shot.jpg')",
-      }),
+      }), */
     },
   },
   variants: {},
