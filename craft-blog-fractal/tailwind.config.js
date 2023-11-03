@@ -15,6 +15,7 @@ module.exports = {
           'article-title': {
             'font-weight': 100,
             'margin-bottom': 0,
+            'font-color': '#4EB3D1'
           },
         },
       },
