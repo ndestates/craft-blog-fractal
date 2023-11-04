@@ -1,26 +1,7 @@
 module.exports = {
   content: ["components/**/*.twig", "layouts/**/*.twig", "docs/**/*.twig"],
   theme: {
-    typography: {
-      default: {
-        css: {
-          color: '#333',
-          a: {
-            'text-decoration': 'none',
-            color: '#cccccc',
-            '&:hover': {
-              color: '#2c5282',
-            },
-          },
-          'article-title': {
-            'font-weight': 100,
-            'margin-bottom': 0,
-            'font-color': '#4EB3D1'
-          },
-        },
-      },
-    },
-    fontFamily: {
+      fontFamily: {
       sans: [
         'Poppins',
         'ui-sans-serif',
@@ -40,7 +21,6 @@ module.exports = {
       ],
       serif: ['Poppins', 'ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif']
     },
-    
       extend: {
         colors: {
           'nd-light-blue': {
